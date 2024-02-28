@@ -16,7 +16,7 @@ class HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.red,
         title: const Text(
-          'CelPhone',
+          'Home Page',
           style: TextStyle(color: Colors.white),
         ),
       ),
